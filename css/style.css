@@ -74,13 +74,15 @@ h1{
     background-color: rgb(31, 199, 31);
 }
 
-#container-bx{
+.container{
     width: 100%;
     border: 1px solid blue;
     border-radius: 10px;
     display: flex;
     padding: 12px;
     background-color: rgba(0, 0, 255, 0.167);
+    margin-bottom: 3%;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.699);
 }
 main{
     display: flex;
@@ -90,13 +92,14 @@ main{
     width: 80vw;
     margin-left: auto;
     margin-right: auto;
+    
 
 
     
 
 }
 
-#check-bx{
+.check-bx{
     flex: 5%;
     display: flex;
     height: 50px;
@@ -115,7 +118,7 @@ main{
 }
 
 
-#text-02{
+.text-02{
     width: 95%;
     height: 40px;
     border-radius: 10px;
@@ -160,6 +163,8 @@ border-radius: 10px;
     position: relative;
     justify-content: center;
 }
-
+.clicado{
+    color: green;
+}
 
 
