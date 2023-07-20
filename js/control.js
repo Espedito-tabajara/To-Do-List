@@ -34,6 +34,7 @@ function addtext(){
             </div>
             </div>
         </div>`;
+       
         janela.innerHTML += newBloco;
         imput1.value = "";
         imput1.focus()

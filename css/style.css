@@ -46,6 +46,7 @@ h1{
     margin: auto auto;
     top: 40px;
     padding: 10px;
+    cursor: pointer;
 }
 
 #imput-01{
@@ -55,6 +56,7 @@ h1{
     width: 510px;
     margin-right: 10px;
     text-indent: 5px;
+
     
 }
 
@@ -72,6 +74,7 @@ h1{
 
 #but-add:hover{
     background-color: rgb(31, 199, 31);
+    cursor: pointer;
 }
 
 .container{
@@ -107,6 +110,7 @@ main{
     justify-content: center;
     text-align: center;
     margin: auto;
+    cursor: pointer;
     
    
 }
